@@ -1,0 +1,13 @@
+streamlit
+requests
+sentence-transformers
+scikit-learn
+rapidfuzz
+numpy
+pandas
+torch
+transformers
+python-docx
+python-pptx
+reportlab
+plotly
