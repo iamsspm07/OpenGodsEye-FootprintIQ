@@ -1,13 +1,14 @@
 streamlit
 requests
 sentence-transformers
+transformers
+torch
+torchvision
 scikit-learn
 rapidfuzz
 numpy
 pandas
-torch
-transformers
+plotly
 python-docx
 python-pptx
 reportlab
-plotly
